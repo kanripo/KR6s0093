@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:09:12.332728
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:40
 #+TITLE: 開元釋教錄
 #+PROPERTY: CBETA_ID T55n2154
 #+PROPERTY: ID KR6s0093
@@ -16,8 +16,8 @@
 ¶
 庚午歲西崇福寺沙門智昇撰¶
 
-之九
-大唐傳譯之餘
+** 之九
+*** 大唐傳譯之餘
 :PROPERTIES:
 :head: 總括群經錄上之九(大唐傳譯之餘)
 :END:
